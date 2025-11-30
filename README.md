@@ -9,6 +9,7 @@
 8. Deployment (Vercel + Render)	       ✔ Completed
  
 ****TECH USED****
+
 #FRONTEND
 1. React
 2. React Router
